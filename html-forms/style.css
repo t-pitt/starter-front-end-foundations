@@ -5,3 +5,11 @@ body {
 input {
   margin: 5px;
 }
+
+form input {
+  width: 100%;
+}
+
+form textarea {
+  width: 100%;
+}
